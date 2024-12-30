@@ -60,13 +60,6 @@ export function Hero() {
           </motion.div>
         </motion.div>
       </div>
-      <div 
-        onClick={() => {
-           
-        }}
-        className='absolute bottom-0 right-2 flex justify-center  bg-background  border border-primary rounded-md'>
-
-      </div>
     </div>
   );
 }
